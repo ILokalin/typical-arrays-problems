@@ -1,4 +1,5 @@
 # Typical Arrays Problems
+[![Build status](https://ci.appveyor.com/api/projects/status/qwlafjs30akgpv85?svg=true)](https://ci.appveyor.com/project/ILokalin/typical-arrays-problems)
 
 ## Task
 There are a few typical problems while you working with arrays, and your goal is to solve it.
